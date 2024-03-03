@@ -32,14 +32,14 @@
 
 .header div p {
     font-size: 1.8rem;
-    color: #6287ff;
+    color: #0c0c0c;
     font-weight: 600;
     letter-spacing: 1px;
 }
 
 .header div .completed {
     font-size: 1.8rem;
-    color: #dadada;
+    color: #080808;
     font-weight: 600;
     letter-spacing: 1px;
 }
